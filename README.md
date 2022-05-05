@@ -17,7 +17,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 7. Presiona Enter para crear tu clon local. 
 ``` 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/cfierrom/Tarea-2-Taller-de-Python-para-Ciencias-de-Datos
 > Cloning into `Spoon-Knife`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
