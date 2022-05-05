@@ -13,7 +13,7 @@ Para comenzar debemos clonar la carpeta con todos los archivos, para Linux (Lubu
 5. Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
 6. Escribe ```git clone```, y luego pega la URL que copiaste antes.
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/cfierrom/Tarea-2-Taller-de-Python-para-Ciencias-de-Datos
 ```
 7. Presiona Enter para crear tu clon local. 
 ``` 
