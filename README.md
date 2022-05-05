@@ -1,6 +1,6 @@
 # Tarea 2
 
-En esta tarea aplicaremos conceptos básicos de python, para leer, limpiar, normalizar valores que se encuentren faltantes, etc., utilizando herramientas visto en las clases de Taller de Python para Ciencias de Datos.
+En esta tarea aplicaremos conceptos básicos de python, para leer, limpiar, normalizar valores, etc., utilizando herramientas visto en las clases de Taller de Python para Ciencias de Datos.
 
 Para comenzar debemos clonar la carpeta con todos los archivos, para Linux (Lubuntu) lo haremos de la siguiente forma:
 
