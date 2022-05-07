@@ -29,7 +29,7 @@ $ git clone https://github.com/cfierrom/Tarea-2-Taller-de-Python-para-Ciencias-d
 
 Luego que ya hemos clonado el repositorio, en la terminal ubicamos la carpeta del repositorio y escribimos ```code .``` y se abrirá la carpeta en el Visual Studio Code, donde encontraremos detallado los pasos a seguir:
 ```
-$ code .
+$ nombre_carpeta/code .
 ```
 ![imagen 3](./Visual_Studio_Code.png)
 
